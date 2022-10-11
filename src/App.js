@@ -13,6 +13,13 @@ function App() {
         </Routes>
       </Router>
     
+    <div className="home">
+      <h1>Sample</h1>
+    </div>
+    <div className="home">
+      <h1>daboy</h1>
+    </div>
+
     </> 
   );
 }
