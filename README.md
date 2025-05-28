@@ -1,2 +1,2 @@
-# Currently creating a portfolio using React.
-# Plans may change in the future so this is only a test website.
+# old start of portfolio (learned react & other)
+# unfortunately my old finished portfolio is gone (on old PC I build which resetted)
